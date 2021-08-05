@@ -2,7 +2,8 @@
 
 
 [![Takayuki Komatsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakayukiKomatsu)](https://github.com/TakayukiKomatsu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakayukiKomatsu)](https://github.com/TakayukiKomatsu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakayukiKomatsu&layout=compact)](https://github.com/TakayukiKomatsu)
+
 
 
 <!--
