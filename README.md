@@ -14,7 +14,7 @@ My name is Takayuki Komatsu, a full-stack developer.
  ### Social Network
 
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/takayuki-komatsu/"><img align="center" alt="linkedin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  <a href="https://www.linkedin.com/in/takayuki-komatsu/"><img align="center" alt="linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 	</a>
 </div>
  
