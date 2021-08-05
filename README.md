@@ -1,9 +1,14 @@
 ### Hi there 👋
 
+My name is Takayuki Komatsu, a full-stack developer. 
 
-[![Takayuki Komatsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakayukiKomatsu)](https://github.com/TakayukiKomatsu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakayukiKomatsu)](https://github.com/TakayukiKomatsu)
+🌱 I’m currently learning : PHP
 
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TakayukiKomatsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakayukiKomatsu&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **TakayukiKomatsu/TakayukiKomatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
