@@ -14,12 +14,43 @@ My name is Takayuki Komatsu, a full-stack developer.
  ### Social Network
 
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/takayuki-komatsu/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- 
+  <a href="https://www.linkedin.com/in/takayuki-komatsu/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-	badge&logo=linkedin&logoColor=white">
+	</a>
 </div>
  
-### Technology
- <img align="center" alt="Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
- <img align="center" alt="Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+## Technology
+
+### Front-end
 	
+<div style="display:inline_block">
+ 	<img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+	
+### Mobile
+	
+<div style="display:inline_block">
+	<img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+	<img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+	
+</div>
+	
+
+### Back-end
+	
+<div style="display:inline_block">
+	<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+ 	<img align="center" alt="Composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
+	
+	<img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+	<img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+</div>
+	
+### Containers
+	
+<div style="display:inline_block">
+	<img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
+	
+	
+
+
