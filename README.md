@@ -2,6 +2,8 @@
 
 
 [![Takayuki Komatsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakayukiKomatsu)](https://github.com/TakayukiKomatsu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakayukiKomatsu)](https://github.com/TakayukiKomatsu)
+
 
 <!--
 **TakayukiKomatsu/TakayukiKomatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
