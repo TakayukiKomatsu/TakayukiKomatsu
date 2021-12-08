@@ -2,7 +2,7 @@
 
 My name is Takayuki Komatsu, a full-stack developer. 
 
-🌱 I’m currently learning : PHP and Vue.js
+🌱 I’m currently learning : Next,Storybook,Cypress,AdonisJS
 
 <div>
   <a href="https://github.com/TakayukiKomatsu">
