@@ -24,7 +24,7 @@
 const takayuki = {
   role:        "Full-Stack Developer & AI Engineer",
   location:    "São Paulo, Brazil 🇧🇷",
-  experience:  "4+ years building scalable systems & AI solutions",
+  experience:  "11+ years building scalable systems & AI solutions",
   currentWork: "Generative AI · RAG Pipelines · Omnichannel Platforms",
   stack: {
     languages:  ["Java", "Python", "Go", "TypeScript", "JavaScript", "Kotlin"],
